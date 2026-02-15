@@ -57,10 +57,10 @@ https://mutsamusa.com
 ## Screenshots
 
 ### Azure App Service Overview
-![App%20Service](screenshots/App%20Service%20Overview.png)
+![App Service](screenshots/app-service-overview.png)
 
 ### Resource Group Overview
-![Resource%20Group](screenshots/RG%20Overview.png)
+![Resource Group](screenshots/rg-overview.png)
 
 ### Live Website
-![Live Website](screenshots/Live%20Website.jpg)
+![Live Website](screenshots/live-website.jpg)
