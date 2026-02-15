@@ -56,3 +56,11 @@ https://mutsamusa.com
 
 ## Screenshots
 
+### Azure App Service Overview
+![App%20Service](screenshots/App%20Service%20Overview.png)
+
+### Resource Group Overview
+![Resource%20Group](screenshots/RG%20Overview.png)
+
+### Live Website
+![Live Website](screenshots/Live%20Website.jpg)
